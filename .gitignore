@@ -1,0 +1,34 @@
+# Flutter/Dart
+.dart_tool/
+.packages
+.pub-cache/
+build/
+.pub/
+.melos_tool/
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# Android
+**/local.properties
+**/.gradle/
+**/captures/
+
+# iOS/macOS
+**/ios/Flutter/.last_build_id
+**/macos/Runner/GeneratedPluginRegistrant.*
+**/ios/Runner/GeneratedPluginRegistrant.*
+
+# Windows/Linux
+**/windows/flutter/generated_plugins.*
+**/linux/flutter/generated_*
+
+# Web
+**/web/.dart_tool/
+**/web/flutter.js
+**/web/flutter_service_worker.js
+
+# Logs
+*.log
